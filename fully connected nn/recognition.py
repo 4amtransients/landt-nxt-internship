@@ -35,6 +35,8 @@ model.fit(x=x_tr,y=y_tr, epochs=6)
 
 model.evaluate(x_te, y_te)
 
+#inference script
+
 image_index2 = 100
 img_rows = img_cols = 28        
 plt.imshow(x_te[image_index2].reshape(28,28),cmap='Greys')
