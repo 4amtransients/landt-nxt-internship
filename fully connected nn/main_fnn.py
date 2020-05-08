@@ -83,7 +83,7 @@ print('precision',precision)
 print('\n')
 print('recall',recall)
 
-# inference
+# inference script
 
 print('\n')
 index = int(input('Enter an index between 1 and 10000 to test the network for'))
