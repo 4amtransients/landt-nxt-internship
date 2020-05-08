@@ -1,1 +1,1 @@
-All Tensorflow and Colab projects made for my internship with L&amp;T NxT between 4th May and 30th June
+4th - 11th May : fully connected neural network to make predictions using the MNIST dataset
