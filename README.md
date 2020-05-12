@@ -1,3 +1,5 @@
+## Format - folder name : dates worked on
+
 ### FNN : 4th - 11th May 
 fully connected neural network to make predictions using the MNIST dataset 
 
