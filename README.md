@@ -1,4 +1,4 @@
-## Format - folder name : dates worked on
+## L & T NxT Internship
 
 ### FNN : 4th - 11th May 
 fully connected neural network to make predictions using the MNIST dataset | changing parameters and observe changes on accuracy
